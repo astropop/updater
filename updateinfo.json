@@ -1,0 +1,15 @@
+{
+    "updateInfo":{
+        "appName": "Test Android Updater 18112014",
+        "appDescription": "android updater",
+        "packageName": "com.lttai.testandroidupdater",
+        "versionCode": "2",
+        "versionName": "2.0",
+        "forceUpdate": false,
+        "autoUpdate": true,
+        "apkUrl": "https://raw.githubusercontent.com/natuan0rg/Android-Updater/master/test/app-release-2.0.apk",
+        "updateTips": {
+            "default": "Test Android Updater 18112014"
+        }
+    }
+}
