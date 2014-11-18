@@ -9,7 +9,7 @@
         "autoUpdate": true,
         "apkUrl": "https://raw.githubusercontent.com/astropop/updater/master/apk/TestAndroidUpdaterv2.apk",
         "updateTips": {
-            "defaultTip": "Test Android Updater 18112014"
+            "defaultTip": "Test Android Updater18112014"
         }
     }
 }
