@@ -7,7 +7,7 @@
         "versionName": "2.0",
         "forceUpdate": false,
         "autoUpdate": true,
-        "apkUrl": "https://raw.githubusercontent.com/astropop/updater/master/apk/TestAndroidUpdaterv2.apk",
+        "apkUrl": "https://raw.githubusercontent.com/astropop/updater/master/apk/TestAndroidUpdater18112014.apk",
         "updateTips": {
             "defaultTip": "Test Android Updater18112014"
         }
