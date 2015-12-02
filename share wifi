@@ -1,0 +1,11 @@
+netsh wlan set hostednetwork mode=allow ssid=taile-wifi key=0936677660
+
+netsh wlan start hostednetwork
+
+netsh wlan show hostednetwork
+
+
+netsh wlan stop hostednetwork
+
+
+netsh wlan set hostednetwork mode=disallow ssid=taile-wifi key=0936677660
